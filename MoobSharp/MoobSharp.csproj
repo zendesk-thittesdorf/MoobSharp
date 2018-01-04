@@ -60,8 +60,5 @@
     <Compile Include="LOM\Idrac7-8.cs" />
     <Compile Include="LOM\ILom.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="README.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
 </Project>
